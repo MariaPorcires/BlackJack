@@ -1,0 +1,16 @@
+body {
+    background-color: green;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    color: goldenrod;
+}
+
+#message-el {
+    color: white;
+}
+
+p {
+    color: white;
+}
