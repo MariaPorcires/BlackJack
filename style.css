@@ -1,6 +1,10 @@
 body {
     background-color: green;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+
 }
 
 h1 {
@@ -8,9 +12,11 @@ h1 {
 }
 
 #message-el {
-    color: white;
+    font-style: italic;
 }
 
-p {
-    color: white;
+#startBtn {
+    background-color: goldenrod;
+    color: #016f32;
+    width: 150px;
 }
